@@ -3,7 +3,7 @@
 # Problem Set 01 - Problem 01
 # Simple Calculator Program
 
-def main():
+ def main():
     
     print("Simple Calculator Program")
     
@@ -19,5 +19,5 @@ def main():
     
     print(f"The quotient is {(num1 / num2):.2f}")
     
-if __name__ == "__main__":
+ if __name__ == "__main__":
     main()
