@@ -18,5 +18,6 @@ def main():
     print(f"The product is {num1 * num2}")
     
     print(f"The quotient is {(num1 / num2):.2f}")
+    
 if __name__ == "__main__":
     main()
