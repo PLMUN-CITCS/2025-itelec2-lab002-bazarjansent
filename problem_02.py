@@ -1,7 +1,7 @@
-# Jansent bazar
+# JANSENT BAZAR
 # ITELEC2
-# Problem Set 01 - Problem 02
-# Square the Number Program
+# Problem Set 01 - Problem 01
+# Simple Calculator Program
 def main():
     print("Square the Number Program")
     
