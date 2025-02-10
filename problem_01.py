@@ -1,4 +1,4 @@
-# Bazar Jansent
+# Jansent Bazar
 # ITELEC2
 # Problem Set 01 - Problem 01
 # Simple Calculator Program
