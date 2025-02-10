@@ -5,7 +5,7 @@
 
 def main():
     
-   print("Simple Calculator Program")
+    print("Simple Calculator Program")
     
     num1 = int(input("Enter 1st number: "))
     
