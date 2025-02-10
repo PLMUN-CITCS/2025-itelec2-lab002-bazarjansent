@@ -12,12 +12,6 @@ def main():
     print(f"The sum is {num1 + num2}")
     print(f"The difference is {num1 - num2}")
     print(f"The product is {num1 * num2}")
-
-    # Check for division by zero
-    if num2 != 0:
-        print(f"The quotient is {num1 / num2:.2f}")
-    else:
-        print("Cannot divide by zero.")
-
+      
 if __name__ == "__main__":
     main()
