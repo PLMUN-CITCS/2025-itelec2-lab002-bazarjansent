@@ -19,6 +19,5 @@ def main():
     
     print(f"The quotient is {(num1 / num2):.2f}")
 
-
 if __name__ == "__main__":
     main()
